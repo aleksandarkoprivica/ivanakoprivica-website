@@ -5759,6 +5759,7 @@ a.logo {
 	line-height: 1;
 	position: relative;
 	z-index: 2;
+	margin-top: 10px;
 	padding: 5px 0;
 	min-height: 60px;
 	line-height: 45px;
