@@ -1510,6 +1510,11 @@ body {
 	background-color: #ccc;
 }
 
+.slider_text {
+	font-family: "Signerica Fat";
+	font-size: 12px;
+}
+
 h1,
 h2,
 h3,
@@ -8302,7 +8307,7 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 500px) {
 	.intro_section h3 {
-		font-size: 60px;
+		font-size: 30px;
 	}
 
 	.intro_section .small-text {
@@ -8316,7 +8321,7 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.intro_section h3 {
-		font-size: 80px;
+		font-size: 30px;
 	}
 
 	.intro_section .small-text {
@@ -8332,7 +8337,7 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 1200px) {
 	.intro_section h3 {
-		font-size: 100px;
+		font-size: 30px;
 	}
 
 	.intro_section .small-text {
@@ -8342,13 +8347,13 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 1450px) {
 	.intro_section h3 {
-		font-size: 120px;
+		font-size: 40px;
 	}
 }
 
 @media (min-width: 1700px) {
 	.intro_section h3 {
-		font-size: 150px;
+		font-size: 60px;
 	}
 }
 
