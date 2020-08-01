@@ -8313,7 +8313,8 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.intro_section .small-text {
-		font-size: 16px;
+		font-size: 12px;
+		padding-top: 12px;
 	}
 }
 
@@ -8327,7 +8328,8 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.intro_section .small-text {
-		font-size: 18px;
+		font-size: 14px;
+		padding-top: 14px;
 	}
 }
 
@@ -8344,6 +8346,7 @@ body.active-side-header.slide-right .page_header_side {
 
 	.intro_section .small-text {
 		font-size: 20px;
+		padding-top: 30px;
 	}
 }
 
@@ -8655,8 +8658,8 @@ body.active-side-header.slide-right .page_header_side {
 
 @media (min-width: 1400px) {
 	.sf-menu > li > a {
-		margin-left: 40px;
-		margin-right: 40px;
+		margin-left: 25px;
+		margin-right: 25px;
 	}
 
 	.header_logo_center .sf-menu > li > a {
