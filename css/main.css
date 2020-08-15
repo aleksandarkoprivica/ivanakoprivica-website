@@ -5184,7 +5184,7 @@ body.boxed {
 
 .small-text {
 	font-weight: 700;
-	font-size: 14px;
+	font-size: 10px;
 	text-transform: uppercase;
 }
 
@@ -8298,7 +8298,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .intro_section h3 {
-	font-size: 40px;
+	font-size: 20px;
 	margin-bottom: 0;
 	text-shadow: 0.015em 0 0.2em rgba(45, 104, 101, 0.5);
 }
@@ -8972,7 +8972,7 @@ body.active-side-header.slide-right .page_header_side {
 
 	.mainmenu_wrapper .mega-menu-row ul {
 		position: static;
-		display: block;
+		display: bloc;
 	}
   /* column */
 	.mainmenu_wrapper .mega-menu-col {
