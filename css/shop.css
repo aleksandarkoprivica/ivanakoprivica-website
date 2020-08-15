@@ -185,7 +185,7 @@ li.product {
 .product [class*="col-"]:first-child .newproduct,
 .product [class*="col-"]:first-child .onsale {
 	position: absolute;
-	background-color: #d9be93;
+	background-color: #C7B7B0;
 	color: #ffffff;
 	padding: 8px 18px;
 	text-transform: uppercase;
@@ -278,7 +278,7 @@ li.product {
 }
 
 .product-buttons a.favorite_button {
-	background-color: #d9be93;
+	background-color: #C7B7B0;
 	color: #444444;
 }
 
