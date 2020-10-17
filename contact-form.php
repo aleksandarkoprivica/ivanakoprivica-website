@@ -4,16 +4,16 @@
 //////////////////////////
 
 //Your E-mail
-$your_email = 'your@email.com';
+$your_email = 'koprivica.ivana@gmail.com';
 
 //Default Subject if 'subject' field not specified
-$default_subject = 'From My Contact Form';
+$default_subject = 'Pitanje sa sajta - ivanakoprivica.rs';
 
 //Message if 'name' field not specified
-$name_not_specified = 'Please type a valid name';
+$name_not_specified = 'Molim Vas da upišete ime';
 
 //Message if e-mail sent successfully
-$email_was_sent = 'Thanks, your message successfully sent';
+$email_was_sent = 'Pitanje je uspešno poslato, ubrzo očekujte odgovor!';
 
 //Message if e-mail not sent (server not configured)
 $server_not_configured = 'Sorry, mail server not configured (function "mail()" disabled on your server?)';

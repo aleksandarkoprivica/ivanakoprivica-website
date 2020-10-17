@@ -2258,7 +2258,7 @@ p > [class*="rt-icon"] + [class*="rt-icon"] {
 }
 
 .owl-carousel.top-dots {
-	padding-top: 60px;
+	padding-top: 0px;
 }
 
 .owl-carousel.top-dots .owl-dots {
@@ -8057,10 +8057,6 @@ body.active-side-header.slide-right .page_header_side {
 
 .abstract_background.parallax {
 	background-image: url(../img/parallax/progress.jpg);
-}
-
-.page_testimonials.parallax {
-	background-image: url(../img/parallax/testimonials.jpg);
 }
 
 .page_testimonials.parallax:after {
