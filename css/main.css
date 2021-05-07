@@ -2688,7 +2688,6 @@ html[xmlns] .slides {
 	zoom: 1;
 	*display: inline;
 }
-
 .flex-control-paging li a {
 	display: block;
 	width: 16px;
@@ -8389,7 +8388,7 @@ body.active-side-header.slide-right .page_header_side {
 	}
 
 	.intro_section .slide_description {
-		padding: 45px 0 45px;
+		padding: 140px 0 85px;
 		display: block;
 		vertical-align: middle;
 	}
@@ -9584,11 +9583,27 @@ h2.search-title {
 	.comment-respond i.pull-left {
 		display: none;
 	}
+	.intro_section .slide_description {
+		padding: 70px 0 45px;
+		display: block;
+		vertical-align: middle;
+	}
 
 	.comment-respond .comment-form {
 		margin-left: 0;
 	}
+	.container {
+		max-width: 400px;
+	}
 }
+
+@media (max-width: 400px) {
+	.container {
+		max-width: 350px;
+	}
+}
+
+
 
 .comment-navigation {
 	margin-top: 40px;
