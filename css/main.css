@@ -4492,6 +4492,11 @@ body.boxed {
 	border-bottom: none;
 }
 
+.social_icons_width {
+	width: 120px;
+	text-align: left;
+}
+
 .divided_content > * {
 	display: inline-block;
 	margin: 0 -2px;
@@ -9615,7 +9620,7 @@ h2.search-title {
 }
 
 .page-nav {
-	margin-top: 80px;
+	margin-top: 40px;
 }
 
 .page-nav h4 {
