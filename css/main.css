@@ -4740,6 +4740,13 @@ body.boxed {
 	width: 30px;
 }
 
+.divider_15_1 {
+	text-align: left;
+	width: 30px;
+	margin: 15px auto 15px 0;
+}
+
+
 .text-center .divider_30_1 {
 	text-align: center;
 	margin-left: auto;
@@ -5368,12 +5375,12 @@ h5.small-text, h4.small-text {
 }
 
 .vertical-item.content-padding .item-content {
-	padding: 30px 20px;
+	padding: 20px 20px;
 }
 
 @media (min-width: 400px) {
 	.vertical-item.content-padding .item-content {
-		padding: 50px 35px;
+		padding: 50px 25px;
 	}
 }
 
@@ -5404,12 +5411,12 @@ h5.small-text, h4.small-text {
 }
 
 .side-item.content-padding .item-content {
-	padding: 35px 20px;
+	padding: 25px 20px;
 }
 
 @media (min-width: 400px) {
 	.side-item.content-padding .item-content {
-		padding: 35px;
+		padding: 25px;
 	}
 }
 
