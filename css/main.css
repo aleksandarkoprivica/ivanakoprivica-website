@@ -4,7 +4,18 @@
 	font-family: "Signerica Fat";
 	src: url("../fonts/Signerica_Fat.ttf");
 }
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Regular.ttf");
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: "Montserrat-Bold";
+	src: url("../fonts/Montserrat-Bold.ttf");
+	font-weight: 700;
+}
 /**
 *** Table Of Contents
 *
@@ -249,7 +260,7 @@ Border colors for elements in color section: rgba(255, 255, 255, 0.3)
 	padding: 0;
 	background-color: transparent;
 	border-radius: 0;
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	color: inherit;
 	font-weight: 700;
 	font-size: 18px;
@@ -1525,7 +1536,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	font-weight: 700;
 	line-height: 1.1;
 	word-break: break-word;
@@ -1567,7 +1578,7 @@ blockquote {
 	margin: 30px 0;
 	padding: 0;
 	border: none;
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	font-size: 20px;
 	font-weight: 700;
 	line-height: 1.15;
@@ -8423,7 +8434,7 @@ body.active-side-header.slide-right .page_header_side {
 */
 /* Desktop menu - (min 992px) styles */
 .sf-menu a {
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	font-weight: 700;
 	font-size: 16px;
 	text-align: left;
@@ -9534,7 +9545,7 @@ h2.search-title {
 }
 
 .comment-meta .author_url {
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	font-weight: 700;
 	font-size: 20px;
 }
@@ -10177,7 +10188,7 @@ widget_pages
 	display: inline-block;
 	padding: 8px 0 8px 16px;
 	position: relative;
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	font-size: 18px;
 	font-weight: 700;
 }
@@ -10853,7 +10864,7 @@ aside .widget_tag_cloud a:hover {
 
 .teaser h4 {
 	font-size: 16px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat-Bold', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 20px;
 }
@@ -11240,7 +11251,7 @@ aside .widget_tag_cloud a:hover {
 .plan-name {
 	font-size: 35px;
 	font-weight: 700;
-	font-family: 'Montserrat', serif;
+	font-family: 'Montserrat-Bold', serif;
 	line-height: 1.2;
 	background-color: #444444;
 	padding: 25px 0;
