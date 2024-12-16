@@ -5454,8 +5454,19 @@ h5.small-text, h4.small-text {
 	overflow: hidden;
 }
 
+
 .item-media img {
 	width: 100%;
+	max-height: 40vh;
+	object-fit: contain;
+}
+
+@media (min-width: 1200px) {
+	.item-media img {
+		width: 100%;
+		max-height: 60vh;
+		object-fit: contain;
+	}
 }
 
 .media-links {
